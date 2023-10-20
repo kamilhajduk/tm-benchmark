@@ -33,22 +33,6 @@ Trackmania 2020 Benchmark Plugin is a lightweight and efficient tool to measure 
 - **Enable Logs**: Enable or disable logging of FPS statistics.
 - **Maximum Frames**: Set the maximum number of frames to capture before stopping the benchmark.
 
-## License 📜
-
-This plugin is licensed under the [MIT License](LICENSE.md).
-
-## Contribution Guidelines 🤝
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) when contributing to this project.
-
 ## Support 💬
 
 For support, bug reports, and feature requests, please create an issue [here](https://github.com/kamilhajduk/tm-benchmark/issues).
-
-## Author 🌟
-
-This plugin is developed and maintained by [kamilhajduk](https://github.com/kamilhajduk).
-
----
-
-Feel free to contribute, report issues, and share your feedback to help us improve this plugin! Happy gaming! 🎮✨
