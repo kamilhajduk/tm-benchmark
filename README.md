@@ -1,4 +1,6 @@
-# Trackmania 2020 Benchmark Plugin 🏎️
+# Benchmark: Trackmania2020 OpenPlanet Plugin
+
+![Benchmark](/logo.jpg "Benchmark")
 
 Trackmania 2020 Benchmark Plugin is a lightweight and efficient tool to measure and log frames per second (FPS) statistics during gameplay. Use this plugin to optimize your gaming experience and monitor performance metrics in real-time!
 
