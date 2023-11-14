@@ -25,7 +25,6 @@ void Update(float dt) {
     if (isRunning) {
       Stop();
       Log();
-      lastStartTime = 0;
     }
     return;
   }
