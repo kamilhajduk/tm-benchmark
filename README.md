@@ -12,6 +12,9 @@ Trackmania 2020 Benchmark Plugin is a lightweight and efficient tool to measure 
 - **Logging Functionality**: Optionally log FPS statistics including average, minimum, maximum, and more.
 - **Screen Size Information**: Display the screen size for additional context.
 
+## Map 🗺️
+Download the [Press Nothing - Benchmark](https://trackmania.exchange/maps/139281/press-nothing-benchmark) map. Special thanks to [Nebula](https://trackmania.exchange/user/profile/19287) for exceptional contribution.
+
 ## Installation 🚀
 
 1. Clone or download this repository.
